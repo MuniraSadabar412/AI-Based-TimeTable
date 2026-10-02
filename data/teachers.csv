@@ -1,0 +1,9 @@
+teacher_id,teacher_name,qualified_subjects,max_periods_per_week,max_periods_per_day
+T1,Prof. Sharma,Artificial Intelligence;AI Lab,18,4
+T2,Prof. Patel,Database Management System;Data Structures,18,4
+T3,Prof. Mehta,Web Development;Web Development Lab,18,4
+T4,Prof. Shah,Software Engineering;Computer Networks,18,4
+T5,Prof. Desai,Computer Networks;Web Development,18,4
+T6,Prof. Joshi,Mathematics,18,4
+T7,Prof. Trivedi,Data Structures;AI Lab;Mathematics,18,4
+T8,Prof. Iyer,Database Management System;Software Engineering;Artificial Intelligence,18,4

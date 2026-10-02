@@ -1,0 +1,10 @@
+subject_id,subject_name,subject_code,subject_type,periods_per_week,preferred_room_type
+S1,Artificial Intelligence,AI,Theory,4,Classroom
+S2,Data Structures,DS,Theory,4,Classroom
+S3,Database Management System,DBMS,Theory,4,Classroom
+S4,Web Development,WEB,Theory,4,Classroom
+S5,Software Engineering,SE,Theory,4,Classroom
+S6,Computer Networks,CN,Theory,4,Classroom
+S7,Mathematics,MATH,Theory,4,Classroom
+S8,AI Lab,AI-LAB,Practical,4,Lab
+S9,Web Development Lab,WEB-LAB,Practical,4,Lab
